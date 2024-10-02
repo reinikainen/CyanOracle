@@ -1,0 +1,20 @@
+Depending on the platform and model that you are using you will have more or less control over specific parameters that you can use. We have tested the agent using the following models
+
+Claude: 3.5 Sonnet (best performing model in our evaluations)
+ChatGPT: GPT-4o
+Argo: OpenAI-GPT-4o-latest-128k
+
+
+Description: Cyanotypes Creative Agency Circle Explorer
+
+Number of documents to retrieve: 3
+
+Similarity threshold: 0.5
+
+Display source files: True
+
+Max output tokens: 1800
+
+Chat memory tokens: 10000
+
+Temperature: 0.3
