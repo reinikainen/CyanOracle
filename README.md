@@ -1,5 +1,5 @@
 # CyanOracle
-This is an AI tool to explore the Cyanotypes Creative Agency Circle content and to custom build educational pathways to meet learner goals. More information about the Cyanotypes projects is here https://cyanotypes.website/ 
+This is an AI tool to explore the Cyanotypes Creative Agency Circle content and to custom build educational pathways to meet learner goals. More information about the Cyanotypes project is here https://cyanotypes.website/ 
 
 ## How do I use this tool?
 
@@ -24,7 +24,7 @@ This tool is primarily for partners of the the Cyanotypes consortium but we are 
 
 This tool is an AI agent that can explore the Cyanotypes creative agency circle content and identify relevant parts of the content given a user need. The creative agency circle contains five cluster areas, each of which has five competences, each of which have several learning outcomes. You can tell the AI you have a particular goal and it will find which learning outcomes are suitable for meeting the stated goal. If there are course modules or lessons (more are being developed) then it will ask you if you would like to see them.
 
-The tool can take inputs from a defined persona. For example and Italian fashion design student that has the goal of being reday for business in a competitive environment or a Swedish games developer who needs to learn about collaborating across ecosystems. If you don't have a persona to work with the tool can generate one for you given zero or a few parameters.
+The tool can take inputs from a defined persona. For example and Italian fashion design student that has the goal of being ready for business in a competitive environment or a Swedish games developer who needs to learn about collaborating across ecosystems. If you don't have a persona to work with the tool can generate one for you given zero or a few parameters.
 
 ### Some use cases
  - A student who wants to find specific learning opportunities to meet their identified goals
@@ -35,7 +35,7 @@ The tool can take inputs from a defined persona. For example and Italian fashion
 
 ## How does this tool work?
 
-This is a very simple AI tool that uses prompt engineering and simple Retrieval Augmented Generation to answer questions and make suggestions based on the creative agency circle developed by the Cyanotypes project. It presumes that the user will state some kind of need or goal for some type of persona. If you don't already have a persona in mind then it can create a fictional one for you based on the templates used in the cyanotypes development process. Once given an input it will search through a dataset of the creative agency circle competences, learning outcomes, and lessons (if those are available) and suggest a learning path that meets the expressed need. It will also provide some justification for the suggestions it makes. 
+This is a very simple AI tool that uses prompt engineering and simple Retrieval Augmented Generation to answer questions and make suggestions based on the creative agency circle developed by the Cyanotypes project. It presumes that the user will state some kind of need or goal for some type of persona. If you don't already have a persona in mind then it can create a fictional one for you based on the persona template used in the cyanotypes development process. Once given an input it will search through a dataset of the creative agency circle competences, learning outcomes, and lessons (if those are available) and suggest a learning path that meets the expressed need. It will also provide some justification for the suggestions it makes. 
 
 ## How do I recreate this tool myself?
 Using your AI tool of preference you can recreate this agent.
