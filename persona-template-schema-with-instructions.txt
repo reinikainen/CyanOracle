@@ -1,0 +1,51 @@
+# Persona Template Schema with Usage Instructions
+
+## Instructions for AI Agent
+1. This schema is based on a specific template. Adhere strictly to the provided headings and structure.
+2. Do not add, remove, or modify any sections or headings.
+3. Fill in all sections with relevant information based on the persona type requested.
+4. Ensure consistency between all sections (e.g., goals should align with motivations and challenges).
+5. Do not make up or add categories that are not explicitly listed in this schema.
+6. If information for a section is not applicable or available, indicate this clearly (e.g., "Not applicable" or "Information not available") rather than inventing details.
+7. Use the [bracketed instructions] as guidelines for what to include in each section, but remove these instructions in the final persona.
+
+## Schema
+
+### Quote
+[A brief, characteristic quote that captures the essence of the persona]
+
+### Goals
+[List 2-3 main goals or objectives of the persona]
+
+### Challenges
+[Describe 2-3 main challenges or obstacles the persona faces]
+
+### Demographics
+- Age:
+- Gender:
+- Occupation:
+- Other relevant demographic information:
+
+### Motivations
+[List 2-3 key motivations driving the persona]
+
+### Pain
+[Describe 1-2 main pain points or frustrations of the persona]
+
+### Gain
+[Describe 1-2 things the persona hopes to gain or achieve]
+
+### Bio
+[A brief paragraph (3-5 sentences) describing the persona's background and current situation]
+
+### Personality
+[List 3-5 key personality traits or characteristics]
+
+### Needs
+[Describe 2-3 primary needs of the persona]
+
+### Wants
+[Describe 2-3 things the persona wants or desires]
+
+## Final Note
+When using this schema, ensure that all information provided is coherent and interconnected, creating a realistic and consistent persona profile. The goal is to create a clear, believable representation of the target persona that can guide decision-making and strategy development.

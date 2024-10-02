@@ -1,0 +1,584 @@
+[
+    {
+        "cluster": "Collective Agency",
+        "competence": "Adaptability",
+        "description": "It involves integrating personal strengths with those of others in a collaborative team setting and effectively responding to evolving challenges posed by environmental, digital and social transitions.",
+        "learningOutcome": "1. Adapt their behaviour and mindset to work collaboratively within a team by setting aside personal biases or preconceptions integrating their own strengths and perspectives with those of others in the group\n"
+    },
+    {
+        "cluster": "Collective Agency",
+        "competence": "Adaptability",
+        "description": "It involves integrating personal strengths with those of others in a collaborative team setting and effectively responding to evolving challenges posed by environmental, digital and social transitions.",
+        "learningOutcome": "2. Effectively adjust and respond to the evolving challenges presented by the triple transition, which includes shifts towards environmental sustainability (green), digitalisation, and changes in social dynamics"
+    },
+    {
+        "cluster": "Collective Agency",
+        "competence": "Collaboration",
+        "description": "It involves effectively working with diverse partners, establishing sustainable cooperation and contributing to common goals in cross-disciplinary teams addressing societal challenges.",
+        "learningOutcome": "1. Collaborate effectively with others from diverse disciplines and backgrounds to tackle complex societal challenges"
+    },
+    {
+        "cluster": "Collective Agency",
+        "competence": "Collaboration",
+        "description": "It involves effectively working with diverse partners, establishing sustainable cooperation and contributing to common goals in cross-disciplinary teams addressing societal challenges.",
+        "learningOutcome": "2. Identify and establish an equal and sustainable cooperation among diverse partners"
+    },
+    {
+        "cluster": "Collective Agency",
+        "competence": "Collaboration",
+        "description": "It involves effectively working with diverse partners, establishing sustainable cooperation and contributing to common goals in cross-disciplinary teams addressing societal challenges.",
+        "learningOutcome": "3. Work with others on a common project in order to reach personal and common organisational goals and targets"
+    },
+    {
+        "cluster": "Collective Agency",
+        "competence": "Collaboration",
+        "description": "It involves effectively working with diverse partners, establishing sustainable cooperation and contributing to common goals in cross-disciplinary teams addressing societal challenges.",
+        "learningOutcome": "4. Work in cross disciplinary teams addressing societal challenges through creative practice"
+    },
+    {
+        "cluster": "Collective Agency",
+        "competence": "Collective action",
+        "description": "It involves fostering collaboration, consensus-building and effective engagement with diverse stakeholders to implement positive changes and address challenges within a community or organisation.",
+        "learningOutcome": "1. Foster collaboration, build consensus and leverage human resources effectively to enact meaningful and positive changes within a group or community context"
+    },
+    {
+        "cluster": "Collective Agency",
+        "competence": "Collective action",
+        "description": "It involves fostering collaboration, consensus-building and effective engagement with diverse stakeholders to implement positive changes and address challenges within a community or organisation.",
+        "learningOutcome": "2. Engage in collaborative problem-solving and collective decision-making processes to effect positive change within a community or organisation"
+    },
+    {
+        "cluster": "Collective Agency",
+        "competence": "Collective action",
+        "description": "It involves fostering collaboration, consensus-building and effective engagement with diverse stakeholders to implement positive changes and address challenges within a community or organisation.",
+        "learningOutcome": "3. Engage collaboratively with others in assessing the strengths, weaknesses, opportunities, and threats of a specific context to develop and implement collective strategies for identified challenges or opportunities"
+    },
+    {
+        "cluster": "Collective Agency",
+        "competence": "Creative confidence & critical thinking",
+        "description": "They involve creatively investigating problems, challenging assumptions and developing methodologies to enhance creative practice by analysing weaknesses and uncertainties.",
+        "learningOutcome": "1. Investigate a problem creatively, artistically and collectively by critically evaluating their own ideas, challenging assumptions, considering alternative perspectives and assessing the potential impact of their creative solutions\n"
+    },
+    {
+        "cluster": "Collective Agency",
+        "competence": "Creative confidence & critical thinking",
+        "description": "They involve creatively investigating problems, challenging assumptions and developing methodologies to enhance creative practice by analysing weaknesses and uncertainties.",
+        "learningOutcome": "2. Develop a methodology to enhance their creative practice by analysing weakness and uncertainty and relying on situational knowledge"
+    },
+    {
+        "cluster": "Collective Agency",
+        "competence": "System thinking",
+        "description": "It involves contextualising creative practice within broader ecosystems, applying systems thinking to manage complexity and designing multidisciplinary projects.",
+        "learningOutcome": "1. Contextualise their creative practice within a broader ecosystem, considering the interconnectedness of various factors such as environmental, social, economic and cultural aspects"
+    },
+    {
+        "cluster": "Collective Agency",
+        "competence": "System thinking",
+        "description": "It involves contextualising creative practice within broader ecosystems, applying systems thinking to manage complexity and designing multidisciplinary projects.",
+        "learningOutcome": "2. Gather information, manage complexity, and apply systems thinking in design and innovation contexts to drive creative solutions"
+    },
+    {
+        "cluster": "Collective Agency",
+        "competence": "System thinking",
+        "description": "It involves contextualising creative practice within broader ecosystems, applying systems thinking to manage complexity and designing multidisciplinary projects.",
+        "learningOutcome": "3. Design and research projects within a multidisciplinary professional context"
+    },
+    {
+        "cluster": "Data Driven Agency ",
+        "competence": "Creatively using digital technology",
+        "description": "It involves recognising its advantages, selecting suitable tools and employing innovative methods to enhance creative work, including designing presentations in virtual reality and using AI platforms effectively for image generation.",
+        "learningOutcome": "1. Recognise and identify the advantages of digital technology within creative practices and select suitable digital tools to optimise their creative work.\n"
+    },
+    {
+        "cluster": "Data Driven Agency ",
+        "competence": "Creatively using digital technology",
+        "description": "It involves recognising its advantages, selecting suitable tools and employing innovative methods to enhance creative work, including designing presentations in virtual reality and using AI platforms effectively for image generation.",
+        "learningOutcome": "2. Use AI platforms to define and adapt prompts for image generation and presentations in virtual reality."
+    },
+    {
+        "cluster": "Data Driven Agency ",
+        "competence": "Creatively using digital technology",
+        "description": "It involves recognising its advantages, selecting suitable tools and employing innovative methods to enhance creative work, including designing presentations in virtual reality and using AI platforms effectively for image generation.",
+        "learningOutcome": "3. Design and produce presentations using virtual reality (VR) technology, tools and platforms enhancing engagement and understanding among the audience."
+    },
+    {
+        "cluster": "Data Driven Agency ",
+        "competence": "Creatively using digital technology",
+        "description": "It involves recognising its advantages, selecting suitable tools and employing innovative methods to enhance creative work, including designing presentations in virtual reality and using AI platforms effectively for image generation.",
+        "learningOutcome": "4. Recognise advantages and limitations of generative AI systems by employing prompt engineering methods to effectively utilise AI systems and obtain valuable outcomes \""
+    },
+    {
+        "cluster": "Data Driven Agency ",
+        "competence": "Data literacy & Digital literacy",
+        "description": "It involves the ability to critically evaluate and interpret digital data, navigate digital technologies effectively and apply research strategies to find reliable information while also recognising and mitigating online risks.",
+        "learningOutcome": "1. Collect, manage and interpret data to inform decision-making and problem-solving within their creative practices (focus on Data Literacy)\n\n"
+    },
+    {
+        "cluster": "Data Driven Agency ",
+        "competence": "Data literacy & Digital literacy",
+        "description": "It involves the ability to critically evaluate and interpret digital data, navigate digital technologies effectively and apply research strategies to find reliable information while also recognising and mitigating online risks.",
+        "learningOutcome": "2. Work with digital data by navigating digital technologies, communicating effectively online and critically evaluating digital information within their creative practices (focus on Digital literacy)"
+    },
+    {
+        "cluster": "Data Driven Agency ",
+        "competence": "Data literacy & Digital literacy",
+        "description": "It involves the ability to critically evaluate and interpret digital data, navigate digital technologies effectively and apply research strategies to find reliable information while also recognising and mitigating online risks.",
+        "learningOutcome": "3. Recognise and evaluate the credibility and trustworthiness of digital sources by identifying bias, misinformation, or propaganda in digital content. (focus on Data Literacy)"
+    },
+    {
+        "cluster": "Data Driven Agency ",
+        "competence": "Data literacy & Digital literacy",
+        "description": "It involves the ability to critically evaluate and interpret digital data, navigate digital technologies effectively and apply research strategies to find reliable information while also recognising and mitigating online risks.",
+        "learningOutcome": "4. Use search strategies and tools to find relevant and reliable digital information. (focus on Data Literacy)"
+    },
+    {
+        "cluster": "Data Driven Agency ",
+        "competence": "Data literacy & Digital literacy",
+        "description": "It involves the ability to critically evaluate and interpret digital data, navigate digital technologies effectively and apply research strategies to find reliable information while also recognising and mitigating online risks.",
+        "learningOutcome": "5. Apply concepts of online safety, recognising common online threats and vulnerabilities and evaluating the effectiveness of different security measures and practices in mitigating online risks. (focus on Data Literacy)"
+    },
+    {
+        "cluster": "Data Driven Agency ",
+        "competence": "Digital content co-creation",
+        "description": "It involves designing and implementing specific online co-creation spaces, applying technical skills to actively participate in collaborative creation and reflecting on the features of digital technology to achieve innovative outcomes within a collaborative environment.",
+        "learningOutcome": "1. Work with others to design and create engaging and meaningful interactions for users or audiences in online or virtual spaces, curating website content, encompassing textual elements, imagery and layout design.\n\n\n"
+    },
+    {
+        "cluster": "Data Driven Agency ",
+        "competence": "Digital content co-creation",
+        "description": "It involves designing and implementing specific online co-creation spaces, applying technical skills to actively participate in collaborative creation and reflecting on the features of digital technology to achieve innovative outcomes within a collaborative environment.",
+        "learningOutcome": "2. Create ethically conscious content with others, both synchronously (in real-time) and asynchronously (at different times)"
+    },
+    {
+        "cluster": "Data Driven Agency ",
+        "competence": "Digital content co-creation",
+        "description": "It involves designing and implementing specific online co-creation spaces, applying technical skills to actively participate in collaborative creation and reflecting on the features of digital technology to achieve innovative outcomes within a collaborative environment.",
+        "learningOutcome": "3. Use collaborative tools and version control systems to co-create digital artworks with distributed collaborators across a network"
+    },
+    {
+        "cluster": "Data Driven Agency ",
+        "competence": "Digital content co-creation",
+        "description": "It involves designing and implementing specific online co-creation spaces, applying technical skills to actively participate in collaborative creation and reflecting on the features of digital technology to achieve innovative outcomes within a collaborative environment.",
+        "learningOutcome": "4. Apply technical skills and conceptual knowledge to actively participate in digital content co-creation, by designing and implementing specific online co-creation spaces with associated protocols and standard operating procedures (SOPs)."
+    },
+    {
+        "cluster": "Data Driven Agency ",
+        "competence": "Digital content co-creation",
+        "description": "It involves designing and implementing specific online co-creation spaces, applying technical skills to actively participate in collaborative creation and reflecting on the features of digital technology to achieve innovative outcomes within a collaborative environment.",
+        "learningOutcome": "5. Use digital technology independently by reflecting on its features within a co-creation space to achieve innovative outcomes."
+    },
+    {
+        "cluster": "Data Driven Agency ",
+        "competence": "Digital self-determination",
+        "description": "It involves selecting appropriate training data, understanding legal rights regarding data protection, and taking action to manage personal data effectively in compliance with regulations such as GDPR and the European Declaration on Digital Rights.",
+        "learningOutcome": "1. Choose appropriate training data for a machine learning or AI model, considering data diversity and privacy."
+    },
+    {
+        "cluster": "Data Driven Agency ",
+        "competence": "Digital self-determination",
+        "description": "It involves selecting appropriate training data, understanding legal rights regarding data protection, and taking action to manage personal data effectively in compliance with regulations such as GDPR and the European Declaration on Digital Rights.",
+        "learningOutcome": "2. Gain knowledge about legal rights concerning data protection, both within and beyond the EU, particularly under the GDPR, by differentiating between personal and non-personal data, implications of non-GDPR regions and the identification of pinpoint areas of interest or potential risk."
+    },
+    {
+        "cluster": "Data Driven Agency ",
+        "competence": "Digital self-determination",
+        "description": "It involves selecting appropriate training data, understanding legal rights regarding data protection, and taking action to manage personal data effectively in compliance with regulations such as GDPR and the European Declaration on Digital Rights.",
+        "learningOutcome": "3. Take action in the digital realm to manage and control their personal data effectively."
+    },
+    {
+        "cluster": "Data Driven Agency ",
+        "competence": "Digital self-determination",
+        "description": "It involves selecting appropriate training data, understanding legal rights regarding data protection, and taking action to manage personal data effectively in compliance with regulations such as GDPR and the European Declaration on Digital Rights.",
+        "learningOutcome": "4. Gain understanding and appropriate application of their legal rights under the European Declaration on Digital Rights, including managing data capture risks of their work and exercising their rights such as subject-access requests and the right to be forgotten"
+    },
+    {
+        "cluster": "Data Driven Agency ",
+        "competence": "Understanding socio-technical systems",
+        "description": "It involves understanding and navigating the interactions between social and technical components within work environments, designing user feedback processes tailored to assess usability and recognising the interactions of stakeholders and systems within society.",
+        "learningOutcome": "1. Gain understanding of socio-technical systems, including their roles, influences, and implications in their work to analise and navigate the interactions between social and technical components within their work environment.\n"
+    },
+    {
+        "cluster": "Data Driven Agency ",
+        "competence": "Understanding socio-technical systems",
+        "description": "It involves understanding and navigating the interactions between social and technical components within work environments, designing user feedback processes tailored to assess usability and recognising the interactions of stakeholders and systems within society.",
+        "learningOutcome": "2. Design a user feedback process and tools tailored to assess the usability and effectiveness of the user interface within a socio-technical system."
+    },
+    {
+        "cluster": "Data Driven Agency ",
+        "competence": "Understanding socio-technical systems",
+        "description": "It involves understanding and navigating the interactions between social and technical components within work environments, designing user feedback processes tailored to assess usability and recognising the interactions of stakeholders and systems within society.",
+        "learningOutcome": "3. Gain an understanding of how various stakeholders and systems interact within society, both at macro and micro levels"
+    },
+    {
+        "cluster": "Public Agency",
+        "competence": "Anticipatory innovation",
+        "description": "It involves envisioning future scenarios, applying innovation theories and using creative practices to stimulate thinking and foster innovation while embracing risk-taking and failure as integral parts of the process.",
+        "learningOutcome": "1. Envision future scenarios leading to a better society (protopias) that are not utopian (where everything is perfect) or dystopian (characterised by characterized by fear or distress)\n\n\n"
+    },
+    {
+        "cluster": "Public Agency",
+        "competence": "Anticipatory innovation",
+        "description": "It involves envisioning future scenarios, applying innovation theories and using creative practices to stimulate thinking and foster innovation while embracing risk-taking and failure as integral parts of the process.",
+        "learningOutcome": "2. Employ their creative and artistic practices and strategies effectively to stimulate creative thinking and foster innovation process"
+    },
+    {
+        "cluster": "Public Agency",
+        "competence": "Anticipatory innovation",
+        "description": "It involves envisioning future scenarios, applying innovation theories and using creative practices to stimulate thinking and foster innovation while embracing risk-taking and failure as integral parts of the process.",
+        "learningOutcome": "3. Apply innovation theories to overcome challenges and anticipate future trends"
+    },
+    {
+        "cluster": "Public Agency",
+        "competence": "Anticipatory innovation",
+        "description": "It involves envisioning future scenarios, applying innovation theories and using creative practices to stimulate thinking and foster innovation while embracing risk-taking and failure as integral parts of the process.",
+        "learningOutcome": "4. Develop proficiency in creative practices that encourage risk-taking and embrace failure as essential components of the innovation process"
+    },
+    {
+        "cluster": "Public Agency",
+        "competence": "Boundary spanning",
+        "description": "It involves scanning diverse domains for solutions, leveraging creative practices in transdisciplinary collaborations and creating effective working dynamics among interdisciplinary groups to foster communication and collaboration for shared solutions.",
+        "learningOutcome": "1. Scan diverse domains or disciplines for relevant solutions and leverage creative practices to bring innovative solutions within transdisciplinary collaborations\n"
+    },
+    {
+        "cluster": "Public Agency",
+        "competence": "Boundary spanning",
+        "description": "It involves scanning diverse domains for solutions, leveraging creative practices in transdisciplinary collaborations and creating effective working dynamics among interdisciplinary groups to foster communication and collaboration for shared solutions.",
+        "learningOutcome": "2. Create working dynamics and spaces among interdisciplinary groups by adapting creative expertise and using artistic methods to foster effective communication and collaboration for effective shared pathways to possible solutions"
+    },
+    {
+        "cluster": "Public Agency",
+        "competence": "Managing transformations",
+        "description": "It involves identifying and prioritising areas for change, engaging diverse stakeholders in co-creation processes, applying specialised knowledge to lead transformative initiatives, critically analysing economic theories and effectively communicating the new context and strategies for transformation.",
+        "learningOutcome": "1. Identify and prioritise elements requiring change to achieve new objectives aligned with the needs of the evolving scenario\n"
+    },
+    {
+        "cluster": "Public Agency",
+        "competence": "Managing transformations",
+        "description": "It involves identifying and prioritising areas for change, engaging diverse stakeholders in co-creation processes, applying specialised knowledge to lead transformative initiatives, critically analysing economic theories and effectively communicating the new context and strategies for transformation.",
+        "learningOutcome": "2. Demonstrate an understanding of appropriate formats for engaging a diverse range of citizens in co-creation processes, as well as distinguish different types of stakeholders and their roles in transformation processes"
+    },
+    {
+        "cluster": "Public Agency",
+        "competence": "Managing transformations",
+        "description": "It involves identifying and prioritising areas for change, engaging diverse stakeholders in co-creation processes, applying specialised knowledge to lead transformative initiatives, critically analysing economic theories and effectively communicating the new context and strategies for transformation.",
+        "learningOutcome": "3. Apply specialised knowledge and technical skills to collaboratively lead transformative initiatives, employing innovative solutions to address complex challenges"
+    },
+    {
+        "cluster": "Public Agency",
+        "competence": "Managing transformations",
+        "description": "It involves identifying and prioritising areas for change, engaging diverse stakeholders in co-creation processes, applying specialised knowledge to lead transformative initiatives, critically analysing economic theories and effectively communicating the new context and strategies for transformation.",
+        "learningOutcome": "4. Critically analyse various economic theories and their influence on current developments, using this knowledge to inform transformational strategies"
+    },
+    {
+        "cluster": "Public Agency",
+        "competence": "Managing transformations",
+        "description": "It involves identifying and prioritising areas for change, engaging diverse stakeholders in co-creation processes, applying specialised knowledge to lead transformative initiatives, critically analysing economic theories and effectively communicating the new context and strategies for transformation.",
+        "learningOutcome": "5. Effectively communicate the new context and lines of work required for undertaking the transformation, ensuring clarity and alignment among stakeholders"
+    },
+    {
+        "cluster": "Public Agency",
+        "competence": "Narrative design",
+        "description": "It involves crafting compelling stories that evoke mental imagery, tailoring communication to resonate with the audience and leveraging artistic and creative contributions to enhance storytelling.",
+        "learningOutcome": "1. Craft narratives that evoke mental imagery and use a range of storytelling strategies while also demonstrating a solid understanding of visual literacy principles\n"
+    },
+    {
+        "cluster": "Public Agency",
+        "competence": "Narrative design",
+        "description": "It involves crafting compelling stories that evoke mental imagery, tailoring communication to resonate with the audience and leveraging artistic and creative contributions to enhance storytelling.",
+        "learningOutcome": "2. Demonstrate proficiency in understanding the values, emotions and needs of the target audience to tailor their communication effectively"
+    },
+    {
+        "cluster": "Public Agency",
+        "competence": "Narrative design",
+        "description": "It involves crafting compelling stories that evoke mental imagery, tailoring communication to resonate with the audience and leveraging artistic and creative contributions to enhance storytelling.",
+        "learningOutcome": "3. Articulate messages using language that resonates with the audience's preferences and effectively addresses the problem at hand"
+    },
+    {
+        "cluster": "Public Agency",
+        "competence": "Narrative design",
+        "description": "It involves crafting compelling stories that evoke mental imagery, tailoring communication to resonate with the audience and leveraging artistic and creative contributions to enhance storytelling.",
+        "learningOutcome": "4. Leverage their artistic, innovative and creative contributions to enhance narrative design and storytelling"
+    },
+    {
+        "cluster": "Public Agency",
+        "competence": "Working with values",
+        "description": "It involves fostering inclusive environments, understanding the underlying factors shaping values and creating strategic partnerships that prioritise mutual respect and understanding of common values across multi-stakeholder ecosystems.",
+        "learningOutcome": "1. Create inclusive and unbiased environments where diverse values are respected and discussed without judgment to support mutual development and upskilling\n\n"
+    },
+    {
+        "cluster": "Public Agency",
+        "competence": "Working with values",
+        "description": "It involves fostering inclusive environments, understanding the underlying factors shaping values and creating strategic partnerships that prioritise mutual respect and understanding of common values across multi-stakeholder ecosystems.",
+        "learningOutcome": "2. Demonstrate a deep understanding of the underlying factors influencing values, such as the 'iceberg' model"
+    },
+    {
+        "cluster": "Public Agency",
+        "competence": "Working with values",
+        "description": "It involves fostering inclusive environments, understanding the underlying factors shaping values and creating strategic partnerships that prioritise mutual respect and understanding of common values across multi-stakeholder ecosystems.",
+        "learningOutcome": "3. Identify and analyse values within multi-stakeholder ecosystems to create strategic partnerships that integrate all stakeholders into decision-making processes, prioritising mutual respect and understanding of common values"
+    },
+    {
+        "cluster": "Regenerative Agency",
+        "competence": "Actionable futures",
+        "description": "engage: it involves designing for impact in a competence ecosystem (sites of learning and sites of engagement)\nit implies the knowledge of how diversity can become a strength, knowledge that human action may have unpredictable / uncertain consequences, and awareness of relevant laws / policies affect spaces of engagement (and make possible specific actions)\n\n",
+        "learningOutcome": "1. Learner can design inclusive and transparent processes"
+    },
+    {
+        "cluster": "Regenerative Agency",
+        "competence": "Actionable futures",
+        "description": "engage: it involves designing for impact in a competence ecosystem (sites of learning and sites of engagement)\nit implies the knowledge of how diversity can become a strength, knowledge that human action may have unpredictable / uncertain consequences, and awareness of relevant laws / policies affect spaces of engagement (and make possible specific actions)\n\n",
+        "learningOutcome": "2. Learner has the ability to act promptly in the face of uncertainty"
+    },
+    {
+        "cluster": "Regenerative Agency",
+        "competence": "Actionable futures",
+        "description": "engage: it involves designing for impact in a competence ecosystem (sites of learning and sites of engagement)\nit implies the knowledge of how diversity can become a strength, knowledge that human action may have unpredictable / uncertain consequences, and awareness of relevant laws / policies affect spaces of engagement (and make possible specific actions)\n\n",
+        "learningOutcome": "3. Learner can synthesize relevant knowledges to inform concrete actions"
+    },
+    {
+        "cluster": "Regenerative Agency",
+        "competence": "Actionable futures",
+        "description": "engage: it involves designing for impact in a competence ecosystem (sites of learning and sites of engagement)\nit implies the knowledge of how diversity can become a strength, knowledge that human action may have unpredictable / uncertain consequences, and awareness of relevant laws / policies affect spaces of engagement (and make possible specific actions)\n\n",
+        "learningOutcome": "4. Learner shows understanding of how human actions may have unpredictable consequences"
+    },
+    {
+        "cluster": "Regenerative Agency",
+        "competence": "Actionable futures",
+        "description": "engage: it involves designing for impact in a competence ecosystem (sites of learning and sites of engagement)\nit implies the knowledge of how diversity can become a strength, knowledge that human action may have unpredictable / uncertain consequences, and awareness of relevant laws / policies affect spaces of engagement (and make possible specific actions)\n\n",
+        "learningOutcome": "5. Learner is aware of relevant laws and policies that affect spaces of engagement"
+    },
+    {
+        "cluster": "Regenerative Agency",
+        "competence": "Actionable futures",
+        "description": "engage: it involves designing for impact in a competence ecosystem (sites of learning and sites of engagement)\nit implies the knowledge of how diversity can become a strength, knowledge that human action may have unpredictable / uncertain consequences, and awareness of relevant laws / policies affect spaces of engagement (and make possible specific actions)\n\n",
+        "learningOutcome": "6. Learner is familiar with organizational processes to turn \"matters of concern\" into \"communities of care / concern\""
+    },
+    {
+        "cluster": "Regenerative Agency",
+        "competence": "Ethical and sustainable thinking ",
+        "description": "It involves understanding that concepts of ethics and justice have an ecological dimension that includes thinking about multispecies relations and the complexity of their (social) interactions. Understanding how regenerative and sustainable actions have the power to affect future generations (human and more-than-human) and being familiar with frameworks that support regenerative/ecological thinking and acting.",
+        "learningOutcome": "1. Learner shows awareness that concepts of ethics / justice have an ecological dimension (example: non-regenerative resource-uses create ecological distribution conflicts)"
+    },
+    {
+        "cluster": "Regenerative Agency",
+        "competence": "Ethical and sustainable thinking ",
+        "description": "It involves understanding that concepts of ethics and justice have an ecological dimension that includes thinking about multispecies relations and the complexity of their (social) interactions. Understanding how regenerative and sustainable actions have the power to affect future generations (human and more-than-human) and being familiar with frameworks that support regenerative/ecological thinking and acting.",
+        "learningOutcome": "2. Learner shows understanding of the conditions of \"inhabitability\" (Morizot) and \"viability\" (Beer) of her/his life situation"
+    },
+    {
+        "cluster": "Regenerative Agency",
+        "competence": "Ethical and sustainable thinking ",
+        "description": "It involves understanding that concepts of ethics and justice have an ecological dimension that includes thinking about multispecies relations and the complexity of their (social) interactions. Understanding how regenerative and sustainable actions have the power to affect future generations (human and more-than-human) and being familiar with frameworks that support regenerative/ecological thinking and acting.",
+        "learningOutcome": "3. Learner shows awareness of contingency (historical dimension) of own life situation (example: inherited conditions / structures as well as needs of future generations)"
+    },
+    {
+        "cluster": "Regenerative Agency",
+        "competence": "Ethical and sustainable thinking ",
+        "description": "It involves understanding that concepts of ethics and justice have an ecological dimension that includes thinking about multispecies relations and the complexity of their (social) interactions. Understanding how regenerative and sustainable actions have the power to affect future generations (human and more-than-human) and being familiar with frameworks that support regenerative/ecological thinking and acting.",
+        "learningOutcome": "4. Learner acknowledges the more-than-human dimensions of dignity (beyond a language of animal / natural rights)"
+    },
+    {
+        "cluster": "Regenerative Agency",
+        "competence": "Ethical and sustainable thinking ",
+        "description": "It involves understanding that concepts of ethics and justice have an ecological dimension that includes thinking about multispecies relations and the complexity of their (social) interactions. Understanding how regenerative and sustainable actions have the power to affect future generations (human and more-than-human) and being familiar with frameworks that support regenerative/ecological thinking and acting.",
+        "learningOutcome": "5. Learner understands key learning frameworks for regenerative sustainability (example: GreenComp, four-pillar model of sustainability)"
+    },
+    {
+        "cluster": "Regenerative Agency",
+        "competence": "Exploratory thinking",
+        "description": "It involves having an exploratory interest in creative, structural, social and technical ways of acting democratically and holistic. It involves awareness of precautionary principle (act now to avoid future negative impact), a positive attitude toward fact-based analyses (interest in how evidence / factuality / trust is determined), awareness that fairness / inclusion requires knowledge of all stakes / perspectives involved / affected; awareness of differences between potential (thinkable) / possible (doable) / likely (realistic) futures",
+        "learningOutcome": "1. Learner shows awareness of precautionary principle\n\n\n\n\n"
+    },
+    {
+        "cluster": "Regenerative Agency",
+        "competence": "Exploratory thinking",
+        "description": "It involves having an exploratory interest in creative, structural, social and technical ways of acting democratically and holistic. It involves awareness of precautionary principle (act now to avoid future negative impact), a positive attitude toward fact-based analyses (interest in how evidence / factuality / trust is determined), awareness that fairness / inclusion requires knowledge of all stakes / perspectives involved / affected; awareness of differences between potential (thinkable) / possible (doable) / likely (realistic) futures",
+        "learningOutcome": "2. Learner shows positive attitude toward fact-based analyses"
+    },
+    {
+        "cluster": "Regenerative Agency",
+        "competence": "Exploratory thinking",
+        "description": "It involves having an exploratory interest in creative, structural, social and technical ways of acting democratically and holistic. It involves awareness of precautionary principle (act now to avoid future negative impact), a positive attitude toward fact-based analyses (interest in how evidence / factuality / trust is determined), awareness that fairness / inclusion requires knowledge of all stakes / perspectives involved / affected; awareness of differences between potential (thinkable) / possible (doable) / likely (realistic) futures",
+        "learningOutcome": "3. Learner is aware that fairness and inclusion requires knowledge of all affective perspectives involved"
+    },
+    {
+        "cluster": "Regenerative Agency",
+        "competence": "Exploratory thinking",
+        "description": "It involves having an exploratory interest in creative, structural, social and technical ways of acting democratically and holistic. It involves awareness of precautionary principle (act now to avoid future negative impact), a positive attitude toward fact-based analyses (interest in how evidence / factuality / trust is determined), awareness that fairness / inclusion requires knowledge of all stakes / perspectives involved / affected; awareness of differences between potential (thinkable) / possible (doable) / likely (realistic) futures",
+        "learningOutcome": "4. Learner is aware of differences between thinkable, doable and realistic futures"
+    },
+    {
+        "cluster": "Regenerative Agency",
+        "competence": "Exploratory thinking",
+        "description": "It involves having an exploratory interest in creative, structural, social and technical ways of acting democratically and holistic. It involves awareness of precautionary principle (act now to avoid future negative impact), a positive attitude toward fact-based analyses (interest in how evidence / factuality / trust is determined), awareness that fairness / inclusion requires knowledge of all stakes / perspectives involved / affected; awareness of differences between potential (thinkable) / possible (doable) / likely (realistic) futures",
+        "learningOutcome": "5. Learner is able to identify articulate different futures based on different sets of value"
+    },
+    {
+        "cluster": "Regenerative Agency",
+        "competence": "Problem framing",
+        "description": "It involves the ability to reframe relationships between self and world in regenerative terms and includes awareness of a variety of relevant approaches and methods, and terminologies",
+        "learningOutcome": "1. Learner is familiar with more-than-human frameworks (example: ecologies of technology, regenerative sustainability)\n\n"
+    },
+    {
+        "cluster": "Regenerative Agency",
+        "competence": "Problem framing",
+        "description": "It involves the ability to reframe relationships between self and world in regenerative terms and includes awareness of a variety of relevant approaches and methods, and terminologies",
+        "learningOutcome": "2. Learner is familiar with \"design-for-regeneration\" approaches and multiple concepts of value"
+    },
+    {
+        "cluster": "Regenerative Agency",
+        "competence": "Problem framing",
+        "description": "It involves the ability to reframe relationships between self and world in regenerative terms and includes awareness of a variety of relevant approaches and methods, and terminologies",
+        "learningOutcome": "3. Learner is familiar with approaches to assess short / mid-term / long-term (cultural, economic, environmental, social) impacts"
+    },
+    {
+        "cluster": "Regenerative Agency",
+        "competence": "Self-awareness & empathy ",
+        "description": "It involves understanding one's place in a more-than-human world and the capacity to make informed decisions that are aligned with the need for economic, cultural, and ecological regeneration",
+        "learningOutcome": "1. Learner discovers ecological complexity, recognizes the interdependence of different living beings, and becomes aware of her/his own agency"
+    },
+    {
+        "cluster": "Regenerative Agency",
+        "competence": "Self-awareness & empathy ",
+        "description": "It involves understanding one's place in a more-than-human world and the capacity to make informed decisions that are aligned with the need for economic, cultural, and ecological regeneration",
+        "learningOutcome": "2. Learner shows understanding between the terms human, non-human, and more-than-human"
+    },
+    {
+        "cluster": "Regenerative Agency",
+        "competence": "Self-awareness & empathy ",
+        "description": "It involves understanding one's place in a more-than-human world and the capacity to make informed decisions that are aligned with the need for economic, cultural, and ecological regeneration",
+        "learningOutcome": "3. Learner is aware of human, techno- and eco-centric design approaches"
+    },
+    {
+        "cluster": "Regenerative Agency",
+        "competence": "Self-awareness & empathy ",
+        "description": "It involves understanding one's place in a more-than-human world and the capacity to make informed decisions that are aligned with the need for economic, cultural, and ecological regeneration",
+        "learningOutcome": "4. Learner shows understanding of diversity as possible source of strength"
+    },
+    {
+        "cluster": "Regenerative Agency",
+        "competence": "Self-awareness & empathy ",
+        "description": "It involves understanding one's place in a more-than-human world and the capacity to make informed decisions that are aligned with the need for economic, cultural, and ecological regeneration",
+        "learningOutcome": "5. Learner can identify choices in relation to ethos of care and solidarity"
+    },
+    {
+        "cluster": "Value Creating Agency",
+        "competence": "Financial and Economic Literacy",
+        "description": "Be the change you want to see. Learn purposeful methods to solve societal problems from an economic perspective, taking the entanglements between self-world-environment-family in account. It involves understanding business project finance, assessing the financial value of ideas and target audiences, and effectively communicating business proposals to potential investors.",
+        "learningOutcome": "1. Learner knows different global economic systems and how they impact societies."
+    },
+    {
+        "cluster": "Value Creating Agency",
+        "competence": "Financial and Economic Literacy",
+        "description": "Be the change you want to see. Learn purposeful methods to solve societal problems from an economic perspective, taking the entanglements between self-world-environment-family in account. It involves understanding business project finance, assessing the financial value of ideas and target audiences, and effectively communicating business proposals to potential investors.",
+        "learningOutcome": "2. Learner knows different existing business models (direct, indirect, platform, etc) and business models for the common good (ECG)."
+    },
+    {
+        "cluster": "Value Creating Agency",
+        "competence": "Financial and Economic Literacy",
+        "description": "Be the change you want to see. Learn purposeful methods to solve societal problems from an economic perspective, taking the entanglements between self-world-environment-family in account. It involves understanding business project finance, assessing the financial value of ideas and target audiences, and effectively communicating business proposals to potential investors.",
+        "learningOutcome": "3. Learner knows how to find an idea worth solving from collective obstacles existing in their societies and can transfer a business model to do so."
+    },
+    {
+        "cluster": "Value Creating Agency",
+        "competence": "Financial and Economic Literacy",
+        "description": "Be the change you want to see. Learn purposeful methods to solve societal problems from an economic perspective, taking the entanglements between self-world-environment-family in account. It involves understanding business project finance, assessing the financial value of ideas and target audiences, and effectively communicating business proposals to potential investors.",
+        "learningOutcome": "4. Learner understands the entanglements between themselves and the economy they participate in, and know how to apply a business model canvas to their personal/professional life"
+    },
+    {
+        "cluster": "Value Creating Agency",
+        "competence": "Opportunity management",
+        "description": "It involves assessing, leveraging and strategically capitalising on opportunities in the creative field to enhance financial sustainability, artistic integrity and business competitiveness.",
+        "learningOutcome": "1. Assess and manage opportunities in the creative field while considering both financial sustainability and artistic integrity\n \n\n"
+    },
+    {
+        "cluster": "Value Creating Agency",
+        "competence": "Opportunity management",
+        "description": "It involves assessing, leveraging and strategically capitalising on opportunities in the creative field to enhance financial sustainability, artistic integrity and business competitiveness.",
+        "learningOutcome": "2. Recognise, leverage and make informed decisions about opportunities that arise from collaborations across different sectors, considering their potential impact on the business and its increased competitiveness"
+    },
+    {
+        "cluster": "Value Creating Agency",
+        "competence": "Opportunity management",
+        "description": "It involves assessing, leveraging and strategically capitalising on opportunities in the creative field to enhance financial sustainability, artistic integrity and business competitiveness.",
+        "learningOutcome": "3. Identify and capitalise on opportunities for collaboration, partnership or business ventures that align with their business goals and objectives"
+    },
+    {
+        "cluster": "Value Creating Agency",
+        "competence": "Opportunity management",
+        "description": "It involves assessing, leveraging and strategically capitalising on opportunities in the creative field to enhance financial sustainability, artistic integrity and business competitiveness.",
+        "learningOutcome": "4. Identify, assess and make strategic decisions on various funding opportunities available by analysing their suitability and relevance to their goals or projects"
+    },
+    {
+        "cluster": "Value Creating Agency",
+        "competence": "Planning and management",
+        "description": "It entails fostering a cultural welfare mindset, efficiently developing business project frameworks, adapting strategies to changing circumstances and integrating work-life balance principles into planning and management activities.",
+        "learningOutcome": "1. Recognise, value and employ a cultural welfare mindset in enhancing workplace productivity \n\n\n\n "
+    },
+    {
+        "cluster": "Value Creating Agency",
+        "competence": "Planning and management",
+        "description": "It entails fostering a cultural welfare mindset, efficiently developing business project frameworks, adapting strategies to changing circumstances and integrating work-life balance principles into planning and management activities.",
+        "learningOutcome": "2. Develop and manage practical business project frameworks efficiently"
+    },
+    {
+        "cluster": "Value Creating Agency",
+        "competence": "Planning and management",
+        "description": "It entails fostering a cultural welfare mindset, efficiently developing business project frameworks, adapting strategies to changing circumstances and integrating work-life balance principles into planning and management activities.",
+        "learningOutcome": "3. Adapt and adjust business strategies promptly in response to evolving circumstances and changing scenarios"
+    },
+    {
+        "cluster": "Value Creating Agency",
+        "competence": "Planning and management",
+        "description": "It entails fostering a cultural welfare mindset, efficiently developing business project frameworks, adapting strategies to changing circumstances and integrating work-life balance principles into planning and management activities.",
+        "learningOutcome": "4. Apply and integrate work-life balance principles and strategies at both individual and team level into business planning and management activities"
+    },
+    {
+        "cluster": "Value Creating Agency",
+        "competence": "Planning and management",
+        "description": "It entails fostering a cultural welfare mindset, efficiently developing business project frameworks, adapting strategies to changing circumstances and integrating work-life balance principles into planning and management activities.",
+        "learningOutcome": "5. how to find a balance juggeling your personal and work life (delegation skill, negotiation, collaboration > project shift culture from ELIA)"
+    },
+    {
+        "cluster": "Value Creating Agency",
+        "competence": "Valuing ideas",
+        "description": "It involves identifying key elements of viability, communicating their value proposition effectively, assessing uniqueness in the market and analysing feasibility and funding opportunities for implementation.",
+        "learningOutcome": "1. Identify key elements of a valuable idea including its effectiveness in meeting the target audience’s needs/problems and market demand, its scalability and sustainability (long-term viability and impact, including environmental and social aspects)\n\n\n"
+    },
+    {
+        "cluster": "Value Creating Agency",
+        "competence": "Valuing ideas",
+        "description": "It involves identifying key elements of viability, communicating their value proposition effectively, assessing uniqueness in the market and analysing feasibility and funding opportunities for implementation.",
+        "learningOutcome": "2. Identify and effectively communicate the value proposition of an idea and tailor the language to the audience"
+    },
+    {
+        "cluster": "Value Creating Agency",
+        "competence": "Valuing ideas",
+        "description": "It involves identifying key elements of viability, communicating their value proposition effectively, assessing uniqueness in the market and analysing feasibility and funding opportunities for implementation.",
+        "learningOutcome": "3. Compare the uniqueness of an idea to others in the market"
+    },
+    {
+        "cluster": "Value Creating Agency",
+        "competence": "Valuing ideas",
+        "description": "It involves identifying key elements of viability, communicating their value proposition effectively, assessing uniqueness in the market and analysing feasibility and funding opportunities for implementation.",
+        "learningOutcome": "4. Analise your idea (product or service) viability by identifying tangible and intangible resources (time, human resources and others), economic resources and appropriate funding opportunities, both public and private for its implementation"
+    },
+    {
+        "cluster": "Value Creating Agency",
+        "competence": "Working with others",
+        "description": "It involves effective collaboration in co-creation and learning environments, recognising and leveraging internal and external expertise and valuing diverse viewpoints to promote creativity, inclusivity and innovation.",
+        "learningOutcome": "1. Effectively collaborate with others in co-creation activities and challenge-based learning environments\n\n"
+    },
+    {
+        "cluster": "Value Creating Agency",
+        "competence": "Working with others",
+        "description": "It involves effective collaboration in co-creation and learning environments, recognising and leveraging internal and external expertise and valuing diverse viewpoints to promote creativity, inclusivity and innovation.",
+        "learningOutcome": "2. Recognise and use both internal and external expertise in collaborative endeavours by assessing the complementary skills within the organisation by identifying any gaps that may require external professional input"
+    },
+    {
+        "cluster": "Value Creating Agency",
+        "competence": "Working with others",
+        "description": "It involves effective collaboration in co-creation and learning environments, recognising and leveraging internal and external expertise and valuing diverse viewpoints to promote creativity, inclusivity and innovation.",
+        "learningOutcome": "3. Identify, value and leverage diverse viewpoints in collaborative settings to promote creativity and innovation, foster inclusivity and improve decision-making processes"
+    }
+]
