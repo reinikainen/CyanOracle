@@ -6,9 +6,9 @@ This is an AI tool to explore the Cyanotypes Creative Agency Circle content and 
 The easiest way to try the tool out is to use one of the example instances listed here. Always be careful of the accuracy of the output. Changes in the LLM models that happen behind the scenes can cause the tool to start hallucinating quite wildly, we have seen this happen.  
 
 Example instances:
-Claude 3.5 Sonnet - https://claude.ai/project/3f78cfb5-9d4d-476f-b6ec-00789bc69ac2 
-ChatGPT - https://chatgpt.com/g/g-eo4keBsHH-cyanoracle 
-Argo - Available for Cyanotypes partners in the Argo Cyanotypes Workspace
+ - Claude 3.5 Sonnet - https://claude.ai/project/3f78cfb5-9d4d-476f-b6ec-00789bc69ac2 
+ - ChatGPT - https://chatgpt.com/g/g-eo4keBsHH-cyanoracle 
+ - Argo - Available for Cyanotypes partners in the Argo Cyanotypes Workspace
 
 You can also recreate this tool using your preferred cloud based AI platform (e.g ChatGPT, Mistral, Claude, POE) or even run it locally on your own hardware if you know how to do that. All the necessary files, prompts and configuration parameters are included in this repository.
 
