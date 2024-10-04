@@ -48,3 +48,7 @@ If you prefer to work with JSON then the data is also supplied in JSON format.
 ## Can I contribute?
 
 Yes! We are on a learning journey ourselves so any feedback or contributions are welcome. We particularly welcome ideas about how to refine the prompt and also how to best structure the data in the knowledge base for a more accurate and performant RAG pipeline.
+
+If you are a member of the Cyanotypes consortium then you can reach Esko via the #cy-generative-ai channel in the consortium slack. 
+
+If you are an external stakeholder then you can submit an issue or make a pull request.
