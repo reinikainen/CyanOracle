@@ -40,7 +40,7 @@ This is a very simple AI tool that uses prompt engineering and simple Retrieval 
 ## How do I recreate this tool myself?
 Using your AI tool of preference you can recreate this agent.
  1. Copy the 'cyanoracle prompt.txt' text into the agent instruction box
- 2. Add the 'CyanOracle Creative Agency Circle.csv', 'CyanOracle Lessons clean.csv', and 'persona-template-schema-with-instructions.txt' into your agents' knowledge base or files.
+ 2. Add the 3 files in the Knowledge Base Documents folder 'CyanOracle Creative Agency Circle.csv', 'CyanOracle Lessons clean.csv', and 'persona-template-schema-with-instructions.txt' into your agents' knowledge base or files section.
  3. If your system uses additional parameters like temperature or setting token limits you can find our settings in the 'config.txt' file.
 
 If you prefer to work with JSON then the data is also supplied in JSON format.  
